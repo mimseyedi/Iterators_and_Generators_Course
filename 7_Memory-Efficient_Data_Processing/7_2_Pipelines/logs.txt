@@ -1,0 +1,6 @@
+1403/10/21 15:30 - INFO - This is an info log.
+1403/10/25 17:22 - WARNING - This is an warning log.
+1403/11/05 21:17 - ERROR - This is an error log.
+1403/11/05 21:50 - INFO - This is an info log.
+1403/11/09 10:20 - INFO - This is an info log.
+1403/12/01 08:41 - ERROR - This is an error log.
