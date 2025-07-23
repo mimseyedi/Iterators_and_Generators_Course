@@ -87,7 +87,7 @@ $ curl -o exercise_files.zip https://raw.githubusercontent.com/mimseyedi/Iterato
   * Async objects
     * AsyncIterator
     * AsyncGenerator
-    * AsyncContectManager
+    * AsyncContextManager
       * `aiohttp` Module
 * **Memory-Efficient Data Processing**
   * Iterators vs Containers
