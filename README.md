@@ -6,15 +6,10 @@
          src="https://raw.githubusercontent.com/mimseyedi/Iterators_and_Generators_Course/master/banner-light.png"
          width="80%">
   </picture>
+
+[ثبت نام](#) | [سرفصل های دوره](#) | [راهنما](#)
 </div>
 
-## Register
-You can register for the course [here](#).
-
-## Exercise Files
-```
-$ curl -o exercise_files.zip https://raw.githubusercontent.com/mimseyedi/Iterators_and_Generators_Course/master/exercise_files.zip
-```
 
 ## Topics
 
@@ -150,3 +145,9 @@ $ curl -o exercise_files.zip https://raw.githubusercontent.com/mimseyedi/Iterato
       * Others
 * **Conclusion**
   * References
+
+
+## Exercise Files
+```
+$ curl -o exercise_files.zip https://raw.githubusercontent.com/mimseyedi/Iterators_and_Generators_Course/master/exercise_files.zip
+```
