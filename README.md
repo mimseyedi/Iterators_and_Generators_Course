@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mimseyedi/Iterators_and_Generators_Course/master/banner-light.svg">
     <img alt="Iterators_and_Generators_Course"
          src="https://raw.githubusercontent.com/mimseyedi/Iterators_and_Generators_Course/master/banner-light.png"
-         width="50%">
+         width="80%">
   </picture>
 </div>
 
